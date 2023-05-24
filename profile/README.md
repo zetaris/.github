@@ -1,6 +1,9 @@
-## 👋
 
-[Zetaris](https://www.zetaris.com/) is an analytical engine powered by your existing data infrastructure.  
+### [Zetaris](https://www.zetaris.com/) is an analytical engine powered by your existing data infrastructure.  
+
+Using Zetaris for Data Virtualization enables real time data integration which in turn creates new business opportunities while improving data security by centralizing access control at the consolidated data layer level rather than the single data source level. 
+
+[Try us out](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/zetarisptyltd1653890360235.zetaris_the_networked_data_platform) on Azure Marketplace!
 
 <!--
 
